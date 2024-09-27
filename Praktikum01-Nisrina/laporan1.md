@@ -4,6 +4,6 @@
 ## Dasar Teori
 
 ![Unguided1](laporan1_hello.png)
-Kode di atas digunakan untuk mencetak pesan "hello world" dengan Golang.
+Kode di atas digunakan untuk mencetak pesan "hello world" dengan bahasa Golang.
 
 
