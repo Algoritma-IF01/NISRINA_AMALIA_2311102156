@@ -256,7 +256,7 @@ c. Setelah diperbaiki dengan mencoba memasukkan 93.5, 70.6, dan 49.5 maka keluar
 
 ![Laporan3](../assets/modul3_tugas4.png)
 
-Kode di bawah ini digunakan untuk mengonversi nilai akhir mata kuliah yang dimasukkan oleh pengguna menjadi nilai huruf sesuai dengan kriteria yang telah ditentukan. Program meminta pengguna untuk memasukkan nilai akhir, kemudian menggunakan struktur percabangan if-else if untuk menentukan kategori nilai huruf yang sesuai, mulai dari "A" hingga "E".
+Kode di bawah ini digunakan untuk mengonversi nilai akhir mata kuliah yang dimasukkan oleh pengguna menjadi nilai huruf sesuai dengan kriteria yang telah ditentukan. Program meminta pengguna untuk memasukkan nilai akhir, kemudian menggunakan struktur percabangan if-else if untuk menentukan kategori nilai huruf yang sesuai, mulai dari nilai "A" hingga "E".
 
 ### Kode Program Tugas 4
 ```go
